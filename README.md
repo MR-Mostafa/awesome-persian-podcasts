@@ -1,3 +1,4 @@
+
 [![Backers on Open Collective](https://opencollective.com/awesome-persian-podcasts/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-persian-podcasts/sponsors/badge.svg)](#sponsors) [![badge](https://img.shields.io/badge/AWESOME-Persian%20Podcasts-orange.svg)](https://ashkan-rmk.github.io/awesome-persian-podcasts/)
 
 <div dir="rtl">
@@ -42,10 +43,10 @@
 
 ## :book: تاریخ و ادبیات
 
- نام پادکست | توضیحات
- --- | ---
+ نام پادکست | توضیحات | لینک کست باکس
+ --- | --- | ---
 [تاریخ تازه‌ها](https://itunes.apple.com/ae/podcast/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%AA%D8%A7%D8%B2%D9%87-%D9%87%D8%A7/id1242026070?mt=2&ign-mpt=uo%3D4) | «تاریخ تازه‌ها» بر گذشته‌ی رخدادهای روز می‌نگرد
-[دستان ۱۱۸](http://www.dastan118.ir/) | قصه‌گویی شاهنامه فردوسی
+[دستان ۱۱۸](http://www.dastan118.ir/) | قصه‌گویی شاهنامه فردوسی | [کست باکس](https://castbox.fm/channel/id1256084)
 [رادیو دست‌نوشته‌ها](https://soundcloud.com/radiodastneveshteha) | مجموعه پادکست‌هایی درباره تاریخ معاصر ایران بر پایه تاریخ شفاهی،مصاحبه‌های اختصاصی‌ و اسناد آرشیوی
 [شعر و ادبیات پارسی](https://itunes.apple.com/dk/podcast/%D8%B4%D8%B9%D8%B1-%D9%88-%D8%A7%D8%AF%D8%A8%DB%8C%D8%A7%D8%AA-%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C/id961844416?mt=2) | اشعار ماندگار در ادبیات پارسی
 [فردوسی‌خوانی](https://t.me/readingferdowsi) | پادکست برای دوستداران مبتدی شاهنامه
